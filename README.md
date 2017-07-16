@@ -31,5 +31,5 @@ You can find this via the network tab in your favorite browser inspector.
 ## History
 
 TODO: Write history
-0.0.2 - Add comprehensive readme for usage
+0.0.2 - Add comprehensive readme for usage  
 0.0.1 - Initial release
