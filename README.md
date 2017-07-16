@@ -35,6 +35,6 @@ You can find this via the network tab in your favorite browser inspector.
 
 ## History
 
-0.0.3 - Added screenshots
+0.0.3 - Added screenshots  
 0.0.2 - Add comprehensive readme for usage  
 0.0.1 - Initial release
