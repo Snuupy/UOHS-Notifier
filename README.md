@@ -12,13 +12,14 @@ You can find this via the network tab in your favorite browser inspector.
 1. Headless mode on available on Mac and Linux starting in version 59. Windows requires ([Canary](https://www.google.com/chrome/browser/canary.html), as of 2016-07-16).
 1. `git clone https://github.com/Snuupy/UOHS-Notifier`
 1. `npm install -g chrome-remote-interface`
+1. you may need to do a `npm link chrome-remote-interface`.
 1. `npm install`
 1. Rename sampleconfig.js to config.js and fill in your details
 
 
 ## Usage
 1. `cd UOHS-Notifier`
-2. `node app.js`
+2. `npm start`
 
 ## Contributing
 
