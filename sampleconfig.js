@@ -5,7 +5,7 @@ module.exports = {
 	to: "+15555555555", // your phone number to notify
 	from: "+16666666666", // your twilio number
 	notifWaittime: 5, // you won't be notified more than once every x minutes
-	headless: false, // run chrome in headless mode?
+	headless: true, // run chrome in headless mode?
 	URL: 'https://www.uottawa.ca/health/',
 };
 // devModeURL: 'http://localhost:8080/test.html'
