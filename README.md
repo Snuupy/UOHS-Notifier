@@ -2,7 +2,7 @@
 
 Sends you a text when it's convenient to show up at the University of Ottawa Health Services walk-in clinic.
 
-This nodejs app uses [headless chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) to scrape the number of estimated minutes you have to wait for a walk-in appointment on [this page](https://www.uottawa.ca/health/).
+This nodejs app uses [headless chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) to scrape the number of estimated minutes you have to wait for a walk-in appointment on https://www.uottawa.ca/health/.
 
 University of Ottawa Health Services Wait Time Display:
 ![UOHS Display](/screenshots/uohs.png?raw=true "UOHS Wait Time Checker")
