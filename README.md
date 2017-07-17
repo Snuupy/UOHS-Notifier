@@ -4,7 +4,10 @@ Sends you a text when it's convenient to show up at the University of Ottawa Hea
 
 This nodejs app uses [headless chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) to scrape the number of estimated minutes you have to wait for a walk-in appointment.
 
-There is an easier way to do this by using their [(undocumented) API](https://app.cliniconex.com/walkinstats?pid=co-b22fc6be-efba-4c71-9b88-45c9171b6f83&locale=en&token=jkrt54gtOU&hosturl=https://www.uottawa.ca/health/&callback=__gwt_jsonp__.P0.onSuccess). I chose not to do this so I could play with headless-chrome.
+University of Ottawa Health Services Wait Time Display:
+![UOHS Display](/screenshots/uohs.png?raw=true "UOHS Wait Time Checker")
+
+There is an easier way to do this by using their [(undocumented) API](https://app.cliniconex.com/walkinstats?pid=co-b22fc6be-efba-4c71-9b88-45c9171b6f83&locale=en&token=jkrt54gtOU&hosturl=https://www.uottawa.ca/health/&callback=__gwt_jsonp__.P0.onSuccess)...but why make it easy when I can choose to play with headless chrome instead? #hipster #yolo #swag
 
 You can find this via the network tab in your favorite browser inspector.
 
