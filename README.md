@@ -2,7 +2,7 @@
 
 Sends you a text when it's convenient to show up at the University of Ottawa Health Services walk-in clinic.
 
-This nodejs app uses [headless chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) to scrape the number of estimated minutes you have to wait for a walk-in appointment.
+This nodejs app uses [headless chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) to scrape the number of estimated minutes you have to wait for a walk-in appointment on [this page](https://www.uottawa.ca/health/).
 
 There is an easier way to do this by using their [(undocumented) API](https://app.cliniconex.com/walkinstats?pid=co-b22fc6be-efba-4c71-9b88-45c9171b6f83&locale=en&token=jkrt54gtOU&hosturl=https://www.uottawa.ca/health/&callback=__gwt_jsonp__.P0.onSuccess). I chose not to do this so I could play with headless-chrome.
 
